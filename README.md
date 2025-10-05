@@ -48,6 +48,7 @@ This script syncs your watched history from a TSV file to your Trakt.tv account.
 
     The script will use the saved authentication token to automatically sync your data.
 
+
 ## Unidentified Titles
 
 If a title cannot be uniquely identified on Trakt.tv (either no results or multiple results), it will be added to a new file called `unidentified.csv` for your review.
