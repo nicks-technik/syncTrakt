@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Credentials
+token.json
+trakt_token.json
+credentials.json
+.env
+uv.lock
+unidentified.csv
+data
